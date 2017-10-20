@@ -24,6 +24,12 @@ body {
   background-size: cover;
 }
 
+.carousel-caption {
+  width: 1800px; /* Largura */
+  height: 450px; /* Altura */
+  -webkit-align-content: center;
+  align-content: center;
+}
 .portfolio-item {
   margin-bottom: 30px;
 }
