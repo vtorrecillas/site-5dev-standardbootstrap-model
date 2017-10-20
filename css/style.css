@@ -40,3 +40,10 @@ body {
 .navbar .nav-item .nav-link {
   color: #254262;
 }
+.btn {
+  background-color: #254262;
+  border-color: #254262; 
+}
+h1, h2, h3, h4, ul, li, p, label {
+    color: #254262;
+}
