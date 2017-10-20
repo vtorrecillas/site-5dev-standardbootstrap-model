@@ -23,6 +23,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+.carousel-caption {
+  width: 71%;
+  height: 75%;
+}
 
 .portfolio-item {
   margin-bottom: 30px;
