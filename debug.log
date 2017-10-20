@@ -1,3 +1,5 @@
 [1018/144822.358:ERROR:settings.cc(266)] Settings version is not 1
 [1018/152502.806:ERROR:settings.cc(266)] Settings version is not 1
 [1018/152502.806:ERROR:settings.cc(266)] Settings version is not 1
+[1019/230724.079:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[1019/230724.541:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
