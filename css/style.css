@@ -30,9 +30,12 @@ body {
 
 .navbar {
   background-color: #FFF;
+  height: 80px;
+
 }
 .navbar .navbar-brand {
-  color: #254262;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .navbar .nav-item .nav-link {
   color: #254262;
