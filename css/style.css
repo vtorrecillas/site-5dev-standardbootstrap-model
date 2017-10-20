@@ -29,7 +29,7 @@ body {
 }
 
 .navbar {
-  background-color: #FFFF;
+  background-color: #FFF;
   height: 80px;
 
 }
@@ -38,7 +38,7 @@ body {
   margin-bottom: 0px;
 }
 .navbar .nav-item .nav-link {
-  color: #FFFF;
+  color: #FFF;
 }
 .btn {
   background-color: #254262;
