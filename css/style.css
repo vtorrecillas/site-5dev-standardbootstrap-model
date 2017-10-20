@@ -27,3 +27,13 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.navbar {
+  background-color: #FFF;
+}
+.navbar .navbar-brand {
+  color: #254262;
+}
+.navbar .nav-item .nav-link {
+  color: #254262;
+}
