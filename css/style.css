@@ -15,8 +15,8 @@ body {
 }
 
 .carousel-item {
-  height: 65vh;
-  min-height: 300px;
+  /*height: 65vh;*/
+  min-height: 250px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -34,8 +34,7 @@ body {
 
 .navbar {
   background-color: #FFF;
-  height: 60px;
-  width: 100%;
+  padding: 0 1rem;
 
 }
 
