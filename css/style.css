@@ -12,10 +12,13 @@ body {
   body {
     padding-top: 56px;
   }
+
+  .carousel-item {
+    height: 65vh;
+  }
 }
 
 .carousel-item {
-  /*height: 65vh;*/
   min-height: 250px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
