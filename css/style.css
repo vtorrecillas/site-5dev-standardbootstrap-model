@@ -25,7 +25,10 @@ body {
   .carousel-item img {
     opacity: .50;
   }
+  .carousel-caption {
   
+  height: 60%;
+  }
   .carousel-caption h3 {
     font-size: 1.5rem;
   }
