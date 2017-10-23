@@ -16,6 +16,22 @@ body {
   .carousel-item {
     height: 65vh;
   }
+  .carousel-caption {
+  width: 71%;
+  height: 75%;
+  }
+}
+@media (min-width: 300px) and (max-width: 991px) {
+  .carousel-item img {
+    opacity: .50;
+  }
+  
+  .carousel-caption h3 {
+    font-size: 1.5rem;
+  }
+  .carousel-caption p {
+    font-size: 1rem;
+  }
 }
 
 .carousel-item {
@@ -25,10 +41,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-.carousel-caption {
-  width: 71%;
-  height: 75%;
 }
 
 .portfolio-item {
