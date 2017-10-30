@@ -65,9 +65,19 @@ body {
   color: #254262;
 }
 
-.btn {
+#button {
   background-color: #254262;
   border-color: #254262; 
+}
+#sendMessageButton{
+  background-color: #254262;
+  border-color: #254262;
+}
+.btn-linkedin {
+  background-color: #007BB6;
+  border-color:#007BB6;
+  color: #fff;
+
 }
 
 h1, h2, h3, h4, ul, li, p, label {
